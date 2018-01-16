@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="40px" viewBox="0 0 45 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-like</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy" transform="translate(-221.000000, -725.000000)" fill="#FFFFFF">
+            <g id="Group-9" transform="translate(63.000000, 491.000000)">
+                <g id="Group-7" transform="translate(158.000000, 230.000000)">
+                    <g id="icon-like" transform="translate(0.000000, 4.000000)">
+                        <g id="Group">
+                            <g transform="translate(0.000000, 0.296660)" id="Shape">
+                                <path d="M11.714174,0.175562791 C8.82636,0.175562791 5.94245302,1.32485581 3.74905767,3.62033023 C-0.6377794,8.21119535 -0.632756144,15.5810372 3.74905767,20.1755349 L21.6415228,38.940093 C21.8172422,39.1258584 22.0616762,39.2311078 22.3173833,39.2311078 C22.5730903,39.2311078 22.8175243,39.1258584 22.9932437,38.940093 C28.9631042,32.6925116 34.9303144,26.437814 40.9002214,20.190093 C45.2870586,15.5991488 45.2870586,8.22580465 40.9002214,3.63486512 C36.5134307,-0.956069767 29.3423135,-0.956172093 24.9554763,3.63486512 L22.3246391,6.38195814 L19.6938484,3.62033023 C17.5004065,1.32486047 14.6019879,0.175562791 11.714174,0.175562791 L11.714174,0.175562791 Z"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
